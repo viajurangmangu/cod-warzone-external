@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>WarzoneExt.Core</RootNamespace>
+    <AssemblyName>WarzoneExt.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
